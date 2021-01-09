@@ -1,1 +1,6 @@
 theme: jekyll-theme-time-machine
+title: Instant Thé
+description: L'instant pour discuter du thé
+show_downloads: false
+github:
+    is_project_page: false
