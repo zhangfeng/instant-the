@@ -1,0 +1,6 @@
+- name: Accueil
+  link: /
+- name: Blog
+  link: /blog
+- name: Comprenons-nous
+  link: /glossary
