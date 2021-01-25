@@ -3,7 +3,7 @@ title: Les règles de la dégustation du thé
 layout: post
 ---
 
-njour à tous,
+Bonjour à tous,
 
 Aujourd'hui, nous allons voir comment déguster "au mieux" le thé. J dis "au
 mieux", c'est pour dire "idéalement" et qui dit "idéal" dit que c'est
