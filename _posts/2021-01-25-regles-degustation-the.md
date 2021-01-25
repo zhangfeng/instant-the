@@ -26,8 +26,8 @@ quelques-unes, vous pourrez dé*à apprécier différemment.
    D'une eau à une autre, vous verrez que le thé n'aura pas le même goût.
    Certaines personnes, pour éviter d'être tributaire de l'eau courante qui
    diffère selon les lieux, infusent leur thé dans de l'eau minérale. Lady
-   Tea, sur son blog, suggère qu'une filtrée est suffisamment neutre pour
-   bien bpprécier les arômes.
+   Tea, sur [son blog](https://ladytea.over-blog.com), suggère qu'une eau filtrée est suffisamment neutre pour
+   bien apprécier les arômes.
 
 2. La température de l'eau
 
